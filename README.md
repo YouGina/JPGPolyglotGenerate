@@ -1,3 +1,4 @@
+# JPGPolyglotGenerate <!-- Developed by: C. Swiers -->
 Tool inspired by[^1]: https://portswigger.net/research/bypassing-csp-using-polyglot-jpegs
 
 This automates the process. Use any[^2] jpg file and add a XSS payload to it:
